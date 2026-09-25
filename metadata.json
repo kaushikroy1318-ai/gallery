@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Edge Gallery",
+  "description": "Explore and run on-device AI models with LiteRT and AI Edge",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
